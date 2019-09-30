@@ -1,5 +1,8 @@
 _repo: An-Account-of-the-Late-Intended-Insurrection-among-a-Portion-of-the-Blacks-of-this-City_60349
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60349-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hamilton, James, Jr.
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50909
     wikipedia: https://en.wikipedia.org/wiki/Charleston,_South_Carolina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60349#An-Account-of-the-Late-Intended-Insurrection-among-a-Portion-of-the-Blacks-of-this-City
 gutenberg_issued: '2019-09-24'
 gutenberg_type: Text
 identifiers:
