@@ -1,0 +1,36 @@
+_repo: An-Account-of-the-Late-Intended-Insurrection-among-a-Portion-of-the-Blacks-of-this-City_60349
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hamilton, James, Jr.
+    alias: Hamilton, James
+    birthdate: 1786
+    deathdate: 1857
+    gutenberg_agent_id: '9046'
+    url: http://www.gutenberg.org/2009/agents/9046
+    wikipedia: https://en.wikipedia.org/wiki/James_Hamilton_Jr.
+  - agent_name: Charleston (S.C.)
+    alias: City of Charleston (S.C.)
+    gutenberg_agent_id: '50909'
+    url: http://www.gutenberg.org/2009/agents/50909
+    wikipedia: https://en.wikipedia.org/wiki/Charleston,_South_Carolina
+description: ''
+gutenberg_issued: '2019-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slave insurrections -- United States'
+- !lcsh 'Charleston (S.C.) -- History -- Slave Insurrection, 1822'
+- !lcc 'F206'
+- !lcsh 'Vesey, Denmark, approximately 1767-1822'
+- !lcsh 'Slavery -- South Carolina'
+- !lcsh 'African Americans -- South Carolina'
+- GITenberg
+title: An Account of the Late Intended Insurrection among a Portion of the Blacks
+  of this City
+url: http://www.gutenberg.org/ebooks/60349
